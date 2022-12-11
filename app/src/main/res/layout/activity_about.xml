@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
         android:fontFamily="sans-serif"
-        android:text="cette calculatrice ......"
+        android:text="cette calculatrice est une calculatrice develope avec android studio permettant de faire des calcules complexe puisqu'elle est capable de faire des switch avec une calculatrice dtandart et autre scientifique avec des itents dans un menu et avec une activity qui stocke les historiques de operations effectue"
         android:textSize="30dp"
         android:textAlignment="center"
         android:textColor="@color/white"
